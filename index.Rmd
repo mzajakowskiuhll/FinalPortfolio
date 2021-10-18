@@ -32,7 +32,7 @@ This interactive map demonstrates the following skills:
 
 * Displaying data on an interactive map
 
-[![](thumbnails/Cookthumbnail.png)](https://https://github.com/mzajakowskiuhll/FinalPortfolio/blob/main/fullsize/Income_Cook_Map.html){target="_blank"}
+[![](thumbnails/Cookthumbnail.png)](https://github.com/mzajakowskiuhll/FinalPortfolio/blob/main/fullsize/Income_Cook_Map.html){target="_blank"}
 
 # Portland Map
 This map demonstrates the following skills:
